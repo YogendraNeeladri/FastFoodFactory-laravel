@@ -5,11 +5,11 @@
         </div>
         <div class="col-md-6 px-5 has-height-lg middle-items">
             <h3>FIND US</h3>
-            <p>Visit GK Restaurant located in the heart of Ungarada Metta, offering a delightful range of meals with top-notch service. We're easy to find and always happy to serve you.</p>
+            <p>Visit The Fast Food Factory located in the heart of Srikakulam, offering a delightful range of meals with top-notch service. We're easy to find and always happy to serve you.</p>
             <div class="text-muted">
-                <p><span class="ti-location-pin pr-3"></span> GK Restaurant, Ungarada Metta, Andhra Pradesh 532440</p>
-                <p><span class="ti-support pr-3"></span> +91 98765 43210</p>
-                <p><span class="ti-email pr-3"></span> contact@gkrestaurant.com</p>
+                <p><span class="ti-location-pin pr-3"></span> The Fast Food Factory, Srikakulam, Andhra Pradesh 532401</p>
+                <p><span class="ti-support pr-3"></span> +91 8897082657</p>
+                <p><span class="ti-email pr-3"></span> contact@thefastfoodf@gmail.com</p>
             </div>
         </div>
     </div>
@@ -20,21 +20,21 @@
     <div class="row">
         <div class="col-sm-4">
             <h3>EMAIL US</h3>
-            <P class="text-muted">contact@gkrestaurant.com</P>
+            <P class="text-muted">thefastfoodf@gmail.com</P>
         </div>
         <div class="col-sm-4">
             <h3>CALL US</h3>
-            <P class="text-muted">+91 98765 43210</P>
+            <P class="text-muted">+91 8897082657</P>
         </div>
         <div class="col-sm-4">
             <h3>FIND US</h3>
-            <P class="text-muted">Ungarada Metta, Andhra Pradesh 532440</P>
+            <P class="text-muted">Srikakulam, Andhra Pradesh 532401</P>
         </div>
     </div>
 </div>
 <div class="bg-dark text-light text-center border-top wow fadeIn">
     <p class="mb-0 py-3 text-muted small">&copy; Copyright <script>document.write(new Date().getFullYear())</script>
-        Made with <i class="ti-heart text-danger"></i> by <a href="http://devcrud.com">DevCRUD</a></p>
+        Made with <i class="ti-heart text-danger"></i> by <a href="http://devcrud.com">Yogndra Neeladri</a></p>
 </div>
 
 <!-- core  -->
